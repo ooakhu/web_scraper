@@ -1,0 +1,6 @@
+beautifulsoup4==4.9.1
+celery==5.0.0
+psycopg2==2.8.6
+python-decouple==3.3
+redis==3.5.3
+requests==2.24.0
